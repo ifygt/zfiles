@@ -1,0 +1,3 @@
+192.168.1.103 us-or-rly101.zwift.com
+192.168.1.103 secure.zwift.com
+192.168.1.103 cdn.zwift.com
